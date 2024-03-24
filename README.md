@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sebman56
-- 👀 I’m interested in ... C, Java programming language
+- 👀 I’m interested in ... C, Rust, OpenGL, ... Java programming language
 - 🌱 I’m currently learning ... porgramming in C, Rust, Java later
 - 💞️ I’m looking to collaborate for learning programmation, i'm a beginner
 - 📫 How to reach me ... by mel
